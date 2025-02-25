@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "About"
+        file: index.qmd
+      - text: "CV"
+        file: cv.qmd
+      - section: "Projects"
+        contents:
+        - text: "Visualizations"
+          file: visuals.qmd
+        - text: "Others"
+          file: side.qmd
+
+format:
+  html:
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+
+
+
