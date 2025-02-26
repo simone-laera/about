@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "side_football.html",
+    "href": "side_football.html",
+    "title": "Data-Driven pills",
+    "section": "",
+    "text": "Matchday Passing Networks snapshot\nOutline: a visual investigation about Passing Networks during a sample Serie A matchday.\nTools: Python (data wrangling and mplsoccer)\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nWho should I pass the ball to?\nOutline: Pass Risk model according to probability surface.\nTools: Python (PyTorch and mplsoccer)\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nAutomated Event Data based contents\nOutline: several automated data visualisation contents for Media purposes. An example from DAZN.\nTools: Python (pandas and mplsoccer)\n\n\n\n\n\n\n\nVideo",
+    "crumbs": [
+      "Football Projects",
+      "Data-driven contents"
+    ]
+  },
+  {
+    "objectID": "side.html",
+    "href": "side.html",
+    "title": "Side projects",
+    "section": "",
+    "text": "SCIAMN Fest  \nI am the co-founder of SCIAMN Fest, a small but ever-growing music festival in my hometown.\nSince its inception, I have been responsible for artist curation (selection, scheduling and logistics), and social media management, shaping the festival’s creative direction and public presence.\nIn 2025, we will celebrate our third summer edition, alongside some smaller winter events.\nThrough this experience, I have honed my project management and creative problem-solving skills, learning how to balance artistic vision with logistical execution under tight deadlines.\n\nTools: Instagram, Adobe Illustrator, CapCut\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizza questo post su Instagram\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUn post condiviso da Sciamn Fest (@sciamn_fest)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizza questo post su Instagram\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUn post condiviso da Sciamn Fest (@sciamn_fest)",
+    "crumbs": [
+      "Side Projects"
+    ]
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Math&Sport / Milan, Italy\nApril 2022 - Present\nML on Football Tracking Data and Event Data for Lega Serie A\nGoal: developing algorithms and KPIs for live, pre and post-match analysis on Hawkeye Skeleton data and Opta Event Data.\nPrimarly for Lega Serie A clubs (supporting decision making process) and also Media Partner (DAZN, Cronache di spogliatoio).\n\n\n\nTranscrime - Crime&Tech / Milan, Italy\nJanuary 2022 - March 2022\nApplied research, ML and innovation to prevent and control crime for EU-funded research projects\nGoal: developing Risk Indicators, Risk Assesment Models and Tools (interactive dashboards) to assess Corruption Risk factors in firms’ Ownership Structure.",
+    "crumbs": [
+      "CV"
+    ]
+  },
+  {
+    "objectID": "cv.html#work-experiences",
+    "href": "cv.html#work-experiences",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Math&Sport / Milan, Italy\nApril 2022 - Present\nML on Football Tracking Data and Event Data for Lega Serie A\nGoal: developing algorithms and KPIs for live, pre and post-match analysis on Hawkeye Skeleton data and Opta Event Data.\nPrimarly for Lega Serie A clubs (supporting decision making process) and also Media Partner (DAZN, Cronache di spogliatoio).\n\n\n\nTranscrime - Crime&Tech / Milan, Italy\nJanuary 2022 - March 2022\nApplied research, ML and innovation to prevent and control crime for EU-funded research projects\nGoal: developing Risk Indicators, Risk Assesment Models and Tools (interactive dashboards) to assess Corruption Risk factors in firms’ Ownership Structure.",
+    "crumbs": [
+      "CV"
+    ]
+  },
+  {
+    "objectID": "cv.html#computer-skills",
+    "href": "cv.html#computer-skills",
+    "title": "Curriculum Vitae",
+    "section": "Computer skills  ",
+    "text": "Computer skills  \n\n\n\n\n\n\n\nProgramming\nElse\n\n\n\n\nData analysis and statistical modeling with Python, R (scikit-learn, PyTorch).\nGit / GitHub / GitLab\n\n\nData wrangling and visualization in Pyhton, R (Pandas, Polars, numpy, Matplotlib, mplsoccer).\nInteractive data apps with Python framework Streamlit and Flet (basics).\n\n\nKnowledge in Cloud computing services on AWS (S3, EC2, EKS)\nBack-end skills with MongoDB, PostgreSQL, Python-Django (basics).\n\n\nCollaborative work with Google Workspace, Slack, Trello.\nOS: Linux, Windows.",
+    "crumbs": [
+      "CV"
+    ]
+  },
+  {
+    "objectID": "cv.html#courses---certifications",
+    "href": "cv.html#courses---certifications",
+    "title": "Curriculum Vitae",
+    "section": "Courses - Certifications  ",
+    "text": "Courses - Certifications  \nAWS EC2 Basics [AWS Skill Builder, October 2024]\nAWS EKS Primer [AWS Skill Builder, October 2024]\nAmazon Elastic Kubernetes Service (Amazon EKS) - Troubleshooting [AWS Skill Builder, October 2024]\nSport and Data Pioneer Award 2024 [Forbes Italy for Math&Sport, October 2024]\nPreliminary English Test - Council of Europe - Level B1 [Cambridge Assessment English, June 2012]\nEnglish Language proficiency statement - Level B2 [CLA Bologna, June 2018]\nNational Finals of Giochi Matematici [Università Bocconi - Milano, Spring 2009]",
+    "crumbs": [
+      "CV"
+    ]
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education  ",
+    "text": "Education  \n\nMathematical Modelling of Football\nUppsala Universitet / Uppsala, Sweden\nAugust 2021 - November 2021\nCourse taught by Soccermatics author Prof. David Sumpter, with guest lectures.\nGoal: to show how to work with football data and understanding the game using coding, maths and stats.\n\n\n\nMSc Statistical Sciences (curriculum: Data Science)\nUniversity of Bologna / Bologna, Italy\nSeptember 2018 - Working opportunities\n\n\nErasmus+ Study semester\nAarhus Universitet / Aarhus, Denmark\nJanuary 2020 - July 2020\nGained experience with ML and programming, confronting a more hands-on learning approach. Improved (weekly) deadlines management, due to assignment-based assessment methods.\n\n\n\nBSc Mathematics\nUniversity of Bologna / Bologna, Italy\nSeptember 2014 - September 2018\nGraduated with 96 / 110\nDissertation (language: EN) in in High Frequency Finance: VWAP OPTIMAL EXECUTION - Deterministic and stochastic approaches ”",
+    "crumbs": [
+      "CV"
+    ]
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "Languages  ",
+    "text": "Languages  \nItalian (mother tongue) - English (B2, advanced)",
+    "crumbs": [
+      "CV"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Simone Laera",
+    "section": "",
+    "text": "Hello, this is Simone.\nI am a Developer and Football Data Scientist based in Bologna (Italy).\nMethodic and thoughtful: problem posing and problem solving are my guidelines.\nI firmly believe in the power of numbers and data to draw a reliable map for any creation process (as the ball conduction below).",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in touch!",
+    "section": "",
+    "text": "Simone Laera\n   Bologna, Italy\n   simonelaera.soccer@gmail.com\n   +39 3343347200",
+    "crumbs": [
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "visuals.html",
+    "href": "visuals.html",
+    "title": "Football Tracking projects",
+    "section": "",
+    "text": "The current section provides graphical representations of the algorithms and models I have developed using raw Tracking data. Due to the intellectual property policies of the company I work for, it is not possible for me to publicly share the source code of the following works.\nThese data are received both in real time with minimal latency directly from the provider (Hawkeye) via Rabbit queue consumption and Post-Match (in their scrubbed version) to ensure greater data accuracy and cleanliness.\n\nOther provider tested: OptaVision, tracking capture from Broadcast signal (OpenCV, Yolo)\n\nFrom Tracking Camera to 2D\nThe flow of ball and joints raw data in 3D, approximated in 2D, for a fast and clean graphical representation of the match (here a portion)— a dream come true for Football Manager enthusiasts like me!\nVideo\n \n\n\nFrom 2D to individual focus\nThe individual focus highlighted below as starting point for the spatiotemporal analysis: an entire algorithmic framework is developed for physical/athletic and movement KPIs (distance covered, sprints, accelerations, MPE, …) for each of the involved entities.\nVideo\n \n\n\nFrom individual focus to shapes\nSpatially monitoring the team throughout the match to identify geometric characteristics (length, width, centroid, distance between players, …) in both phases (possession and non-possession).\nVideo\n \n\n\nFrom shape to discrete space to control\nStarting to divide the space into occupied zones and zones of responsibility for an initial approximation of territorial dominance.\nVideo\n \n\n\nFrom discrete to continuous\nConstructing Pitch Control model with more realistic conflict zones modeled by a continuous probability surface.\nReferences:\nJ.Fernandez L. Bornn - Wide Open Spaces: A statistical technique for measuring space creation in professional soccer\nW. Spearmann - Quantifying Pitch Control\nVideo\n \n\n\nFrom points to networks\nFrom isolated points to a dynamic network as a tool for Complex System analysis, focusing on distances and passing lines.\nVideo\n \n\n\nFrom formations to dynamic modules (in possession)\nDynamic evaluation of the team’s formation in possession during the match, compared to a static formation defined as the starting reference at kickoff.\nVideo\n \n\n\nFrom formations to dynamic modules (out of possession)\nDynamic evaluation of the formation out of possession as a tool for capturing defensive patterns and movements.\nVideo\n \n\n\nFrom movements to dangerous choices\nDevelopment of a predictive and decision-making model to identify risky/dangerous choices and/or evaluate the contribution of off-ball movements.\nVideo\n \n\n\nFrom movements to scanning\nAn R&D project aimed at calculating the ball carrier’s field of view from raw 3D data. The model can be extended to construct the field of view for any player involved.\nVideo\n \n\n\nFrom movements to motion interactions\n2D modeling of on-field movement as a Bivariate Gaussian and conflict surface in the case of pressure. On the left graph, an example of the central forward, and on the right, the dynamic result surface depending on distance with respect to nearest opponents. The main objective of the algorithm is to identify the availability zones (short, long, …) near the reference player.\nVideo",
+    "crumbs": [
+      "Football Projects",
+      "Tracking Models (Viz)"
+    ]
+  }
+]
