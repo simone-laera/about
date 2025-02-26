@@ -12,7 +12,7 @@ toc: true
 `Tools`: Python (data wrangling and mplsoccer) \
 
 ::: {layout="[[100], [60,40]]"}
-![](viz\PassNet_2ndWeek_SerieA_23_24.png)
+![](viz/PassNet_2ndWeek_SerieA_23_24.png)
 :::
 
 &nbsp;
@@ -23,7 +23,7 @@ toc: true
 `Tools`: Python (PyTorch and mplsoccer) \
 
 ::: {layout="[[100], [60,40]]"}
-![](viz\ExamplePass_Risk.jpg)
+![](viz/ExamplePass_Risk.jpg)
 :::
 
 
@@ -35,5 +35,5 @@ toc: true
 `Tools`: Python (pandas and mplsoccer) \
 
 ::: {layout="[[100], [60,40]]"}
-![](viz\Content4DAZN.mp4)
+![](viz/Content4DAZN.mp4)
 :::

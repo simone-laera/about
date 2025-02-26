@@ -14,4 +14,4 @@ I am a Developer and Football Data Scientist based in Bologna (Italy).
 Methodic and thoughtful: *problem posing and problem solving are my guidelines*. \
 I firmly believe in the power of numbers and data to draw a reliable map for any creation process (*as the ball conduction below*). 
 
-![](viz\MilanAtalanta_GoalTheo_Dang.gif){width=50%}
+![](viz/MilanAtalanta_GoalTheo_Dang.gif){width=50%}
