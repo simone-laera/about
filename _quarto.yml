@@ -14,11 +14,11 @@ website:
         contents:
         - text: "Tracking Models (Viz)"
           file: visuals.qmd
-        - text: "Others"
-          file: side.qmd
+        - text: "Data-driven contents"
+          file: side_football.qmd
       - text: "Side Projects"
         file: side.qmd
-      - text: "Contact"
+      - text: "Contacts"
         file: contact.qmd
 
 format:

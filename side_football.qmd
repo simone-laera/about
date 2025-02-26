@@ -1,0 +1,39 @@
+---
+title: "Data-Driven pills"
+format:
+    html:
+        code-fold: true
+toc: true
+---
+
+### Matchday **Passing Networks** snapshot 
+
+`Outline`: a visual investigation about Passing Networks during a sample Serie A matchday. \
+`Tools`: Python (data wrangling and mplsoccer) \
+
+::: {layout="[[100], [60,40]]"}
+![](viz\PassNet_2ndWeek_SerieA_23_24.png)
+:::
+
+&nbsp;
+
+### Who should I **pass** the ball to?
+
+`Outline`: **Pass Risk model** according to probability surface. \
+`Tools`: Python (PyTorch and mplsoccer) \
+
+::: {layout="[[100], [60,40]]"}
+![](viz\ExamplePass_Risk.jpg)
+:::
+
+
+&nbsp;
+
+### **Automated** Event Data based contents
+
+`Outline`: several automated data visualisation contents for Media purposes. *An example from DAZN*. \
+`Tools`: Python (pandas and mplsoccer) \
+
+::: {layout="[[100], [60,40]]"}
+![](viz\Content4DAZN.mp4)
+:::
