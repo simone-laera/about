@@ -1,0 +1,13 @@
+---
+title: "Simone Laera"
+page-layout: full
+about:
+  template: jolla
+  image: "aboutme.png" 
+  image-width: 18em
+  links:
+    - icon: linkedin
+      text: Linkedin
+    - icon: github
+      text: Github
+---

@@ -1,0 +1,27 @@
+---
+title: "Simone Laera"
+page-layout: full
+about:
+  template: jolla
+  image: "aboutme.png" 
+  image-width: 18em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/giorgia-ditano/
+    - icon: github
+      text: Github
+      href: https://www.github.com/giorgia-dit
+---
+
+Hello, this is Simone.
+
+I am a Developer and Football Data Scientist based in Bologna (Italy). 
+
+Methodic and thoughtful: *problem posing and problem solving are my guidelines*. \
+I firmly believe in the power of numbers and data to draw a reliable map for any creation process (*as the ball conduction below*). 
+
+<video width="480" height="270" controls>
+  <source src="viz\MilanAtalanta_GoalTheo_Dang.mp4" type="video/mp4">
+  Il tuo browser non supporta il tag video.
+</video>

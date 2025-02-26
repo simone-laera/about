@@ -10,12 +10,16 @@ website:
         file: index.qmd
       - text: "CV"
         file: cv.qmd
-      - section: "Projects"
+      - section: "Football Projects"
         contents:
-        - text: "Visualizations"
+        - text: "Tracking Models (Viz)"
           file: visuals.qmd
         - text: "Others"
           file: side.qmd
+      - text: "Side Projects"
+        file: side.qmd
+      - text: "Contact"
+        file: contact.qmd
 
 format:
   html:
@@ -24,6 +28,3 @@ format:
 
 execute:
   freeze: auto
-
-
-

@@ -1,0 +1,7 @@
+---
+title: "Projects and sidenotes"
+format:
+    html:
+        code-fold: true
+toc: true
+---

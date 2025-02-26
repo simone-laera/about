@@ -1,0 +1,76 @@
+---
+title: "Football projects"
+toc: true
+---
+
+Nulla nec porta lorem. Curabitur libero felis, laoreet id laoreet eget, semper non mi. In dignissim tempor libero, vitae porta tortor mattis sed. Quisque consectetur enim a vehicula suscipit. 
+
+Suspendisse malesuada vitae arcu at consequat. Duis viverra faucibus nisi, ac rhoncus lectus posuere at. Praesent in nunc lectus.
+
+&nbsp;
+
+### From **Tracking Camera** to 2D 
+
+![](viz\LazioGenoa_Goal.mp4){width=80%}
+
+&nbsp;
+
+### From 2D to **individual focus** 
+
+![](viz\LazioGenoa_IndividualFocus.mp4){width=80%}
+
+&nbsp;
+
+### From individual focus to **shapes** 
+
+![](viz\LazioGenoa_Shape.mp4){width=80%}
+
+&nbsp;
+
+### From shape to **discrete space** to control  
+
+![](viz\LazioGenoa_Coverage.mp4){width=80%}
+
+&nbsp;
+
+### From discrete to **continuous** 
+
+![](viz\LazioGenoa_PitchControl.mp4){width=80%}
+
+&nbsp;
+
+### From points to **networks** 
+
+![](viz\LazioGenoa_PassingNetwork.mp4){width=80%}
+
+&nbsp;
+
+### From formations to **dynamic modules** (*in possession*) 
+
+![](viz\FiorentinaInter_Possession_Module.mp4){width=80%}
+
+&nbsp;
+
+### From formations to **dynamic modules** (*out of possession*) 
+
+![](viz\FiorentinaInter_OutOfPossession_Module.mp4){width=80%}
+
+&nbsp;
+
+### From movements to **dangerous** choices  
+
+![](viz\NapoliMilan_Leao_Dang.mp4){width=80%}
+
+&nbsp;
+
+### From movements to **scanning**  
+
+![](viz\ExampleFoV.mp4){width=80%}
+
+&nbsp;
+
+### From movements to **motion interactions**  
+
+![](viz\ExampleMotionInteractions.mp4){width=80%}
+
+&nbsp;

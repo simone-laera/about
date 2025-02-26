@@ -409,7 +409,8 @@ FodyWeavers.xsd
 /.luarc.json
 
 # Quarto
-*.qmd
+side_copy.qmd
+visuals_copy.qmd
 
 # Git
 .github/
