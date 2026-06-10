@@ -12,9 +12,6 @@ about:
     - icon: instagram
       text: Instagram
       href: https://www.instagram.com/simonelaera
-    - icon: github
-      text: Github
-      href: https://github.com/simone-laera
 ---
 
 

@@ -8,8 +8,8 @@ website:
     contents:
       - text: "About"
         file: index.qmd
-      - text: "CV"
-        file: cv.qmd
+      # - text: "CV"
+      #   file: cv.qmd
       - section: "Football Projects"
         contents:
         - text: "Tracking Models (Viz)"
