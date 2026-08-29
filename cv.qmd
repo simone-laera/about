@@ -1,12 +1,12 @@
 ---
 title: "Curriculum Vitae"
-subtitle: "Last updated: February, 2024"
+subtitle: "Last updated: August, 2026"
 toc: true
 ---
 
 ## Work experiences  {{< fa solid building >}}
 
-#### Head of Data Science 
+#### Chief Data & Analytics Officer
 
 [**Math&Sport**](https://mathandsport.com/) / *Milan, Italy*\
 **April 2022 - Present**
@@ -14,6 +14,14 @@ toc: true
 **ML on Football Tracking Data and Event Data for Lega Serie A** \
 **Goal**: developing algorithms and KPIs for live, pre and post-match analysis on **Hawkeye** Skeleton data and **Opta** Event Data. \
 Primarly for Lega Serie A clubs (supporting decision making process) and also Media Partner (*DAZN, Cronache di spogliatoio*).
+
+#### Handball Sport Operator
+
+**2026 Mediterranean Games** / *Taranto, Italy*\
+*August 2026 - September 2026*
+
+**Sport operations for the Handball competition of the XX Mediterranean Games** \
+**Goal**: on-site support to the handball tournament management, coordinating competition operations and data/results flow during the event.
 
 #### Researcher Intern (Data Analyst)
 

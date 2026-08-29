@@ -411,3 +411,6 @@ FodyWeavers.xsd
 # Quarto
 side_copy.qmd
 visuals_copy.qmd
+
+# CV sources / reference material (not published)
+references/
